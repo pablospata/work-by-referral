@@ -1,0 +1,10 @@
+# PDF original del libro (copyright)
+WorkByReferral.pdf
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*~
