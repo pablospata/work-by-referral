@@ -5,7 +5,7 @@
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 BASE_DIR="$(dirname "$SCRIPT_DIR")"
 ES_DIR="$BASE_DIR/es"
-OUTPUT="$ES_DIR/libro-completo.md"
+OUTPUT="$ES_DIR/Trabajar-por-Referidos-Buffini-Niego-ES.md"
 
 echo "Compilando libro completo..."
 

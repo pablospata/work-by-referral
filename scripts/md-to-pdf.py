@@ -244,7 +244,7 @@ def main():
     html_content = md_to_html(md_path)
 
     # Detectar si es el libro completo para agregar carátula
-    is_book = 'libro-completo' in os.path.basename(md_path)
+    is_book = 'Trabajar-por-Referidos' in os.path.basename(md_path)
 
     print(f"  → HTML a PDF (weasyprint)...")
     html_to_pdf(html_content, output_path, cover=is_book)

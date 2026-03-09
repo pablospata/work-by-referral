@@ -23,7 +23,7 @@ WorkByReferral/
 │   ├── 00-tabla-de-contenidos.md    # Índice del libro
 │   ├── 00-los-cinco-circulos.md     # Prefacio: Los Cinco Círculos de la Vida
 │   ├── 01 a 16 — Capítulos          # Los 16 capítulos traducidos (MD + PDF)
-│   ├── libro-completo.md / .pdf     # Libro compilado con carátula
+│   ├── Trabajar-por-Referidos-*.md/.pdf  # Libro compilado con carátula
 │   ├── 00-resumen.md                # Resumen integral del libro
 │   ├── 00-plan-de-accion.md         # Plan paso a paso (inmobiliarios)
 │   ├── 00-checklist.md              # Checklist de progreso (inmobiliarios)
@@ -66,7 +66,7 @@ WorkByReferral/
 | **Capítulo 14** | Manteniendo el Rumbo |
 | **Capítulo 15** | El Próximo Paso es Tuyo |
 | **Capítulo 16** | Sobre los Autores |
-| **📖 Libro completo** | Todo compilado con carátula — [⬇️ Descargar PDF](https://github.com/pablospata/work-by-referral/raw/main/es/libro-completo.pdf) |
+| **📖 Libro completo** | Todo compilado con carátula — [⬇️ Descargar PDF](https://github.com/pablospata/work-by-referral/raw/main/es/Trabajar-por-Referidos-Buffini-Niego-ES.pdf) |
 
 ### Materiales complementarios
 
