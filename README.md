@@ -10,6 +10,8 @@ Traducción al español del libro **"Work by Referral: Live the Good Life!"** de
 
 Los autores — Brian Buffini, un inmigrante irlandés que construyó una fortuna en bienes raíces en San Diego, y Joe Niego, un ex drafteado de la NBA que se convirtió en uno de los agentes más exitosos de Chicago — comparten sus historias personales y un sistema paso a paso basado en relaciones, confianza y servicio genuino.
 
+📥 **Libro original en inglés (PDF gratuito compartido por los autores):** [Descargar Work by Referral](https://downloads.buffiniandcompany.com/documents/resources/WorkByReferral_2015_Color.pdf)
+
 ---
 
 ## 📁 Estructura del repositorio
@@ -64,7 +66,7 @@ WorkByReferral/
 | **Capítulo 14** | Manteniendo el Rumbo |
 | **Capítulo 15** | El Próximo Paso es Tuyo |
 | **Capítulo 16** | Sobre los Autores |
-| **📖 Libro completo** | `libro-completo.pdf` — todo compilado con carátula |
+| **📖 Libro completo** | Todo compilado con carátula — [⬇️ Descargar PDF](https://github.com/pablospata/work-by-referral/raw/main/es/libro-completo.pdf) |
 
 ### Materiales complementarios
 
