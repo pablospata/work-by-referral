@@ -70,15 +70,15 @@ WorkByReferral/
 
 ### Materiales complementarios
 
-| Documento | Descripción |
-|-----------|-------------|
-| **Resumen** | Síntesis del libro completo en un solo documento fluido |
-| **Plan de Acción** | Guía paso a paso en 6 fases y 17 pasos para implementar el sistema |
-| **Checklist** | Lista de verificación para trackear progreso |
-| **Resumen Bursátil** | Los mismos principios adaptados para asesores financieros |
-| **Plan Bursátil** | Plan de acción específico para captación de inversores |
-| **Checklist Bursátil** | Checklist con tracking de AUM y referidos |
-| **Plantillas Bursátil** | Mensajes, scripts y 12 Elementos de Valor listos para usar |
+| Documento | Descripción | PDF |
+|-----------|-------------|-----|
+| **Resumen** | Síntesis del libro completo en un solo documento fluido | [⬇️](https://github.com/pablospata/work-by-referral/raw/main/es/00-resumen.pdf) |
+| **Plan de Acción** | Guía paso a paso en 6 fases y 17 pasos para implementar el sistema | [⬇️](https://github.com/pablospata/work-by-referral/raw/main/es/00-plan-de-accion.pdf) |
+| **Checklist** | Lista de verificación para trackear progreso | [⬇️](https://github.com/pablospata/work-by-referral/raw/main/es/00-checklist.pdf) |
+| **Resumen Bursátil** | Los mismos principios adaptados para asesores financieros | [⬇️](https://github.com/pablospata/work-by-referral/raw/main/es/00-resumen-bursatil.pdf) |
+| **Plan Bursátil** | Plan de acción específico para captación de inversores | [⬇️](https://github.com/pablospata/work-by-referral/raw/main/es/00-plan-bursatil.pdf) |
+| **Checklist Bursátil** | Checklist con tracking de AUM y referidos | [⬇️](https://github.com/pablospata/work-by-referral/raw/main/es/00-checklist-bursatil.pdf) |
+| **Plantillas Bursátil** | Mensajes, scripts y 12 Elementos de Valor listos para usar | [⬇️](https://github.com/pablospata/work-by-referral/raw/main/es/00-plantillas-bursatil.pdf) |
 
 Todos los documentos están disponibles en formato Markdown (.md) y PDF.
 
